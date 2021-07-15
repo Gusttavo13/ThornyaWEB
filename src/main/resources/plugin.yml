@@ -1,7 +1,7 @@
-name: ThornyaTemplate
+name: ThornyaWeb
 author: Thornya.Club
-description: A Template
-main: club.thornya.thornyatemplate.ThornyaTemplate
-website: https://github.com/Thornya-Club/ThornyaTemplate
+description: Uma integração do Whatsapp + Servidor
+main: club.thornya.thornyaweb.ThornyaWeb
+website: https://github.com/Thornya-Club/ThornyaWeb
 version: ${project.version}
 api-version: 1.16

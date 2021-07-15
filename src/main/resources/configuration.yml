@@ -1,0 +1,9 @@
+PATH_DIR_OPERA: "\\AppData\\Local\\Google\\Chrome\\User Data"
+
+Whatsapp:
+  group_name: "Arquivos2"
+
+Elements:
+  box_select_contacts: "//span[contains(text(),'$contato$')]"
+  class_box_default_message: "GDTQm"
+  element_message_span: "///*[@id=\"main\"]/div[3]/div/div/div[3]/div[$ID$]/div/div/div/div[1]/div/span[1]/span"
